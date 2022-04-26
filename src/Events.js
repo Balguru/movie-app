@@ -111,7 +111,7 @@ const Events = () => {
                     </div>
                     <div class="movie-title">
                         <h2>Capone (2020)</h2>
-                        <p>English</p>
+                        <p>English hello</p>
                         
                     </div>
                 </div>
