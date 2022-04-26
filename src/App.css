@@ -1,0 +1,547 @@
+.main {
+  background-color:rgba(0, 0, 0, 0.096);
+  
+}
+.main h1 {text-align: center; color: rgb(255, 115, 0)}
+
+.top-header{ width: 100%;
+  background-color: #333545;
+   padding: 10px 0px 0px 0px; 
+}
+ .searh-bar input {
+  width: 100%;
+  margin-top: 14px;
+  border-radius: 5px;
+  font-size: 15px;
+  padding-left: 15px;
+  margin-left: 15px;
+  height: 38px;
+ 
+}  
+
+ /* .dropdown button{
+  margin-top:15px;
+  background-color: whitesmoke;
+  
+}  */
+
+
+
+.second-header {
+  width:100%;
+  background-color: #1F2533;
+  margin-bottom:10px;
+}
+.header-le ul {
+  display: inline;
+}
+
+.header-le li {
+  list-style-type: inline;
+  display: inline;
+  color: white;
+  padding:10px;
+  font-size: 15px;
+  text-decoration: none;
+  
+}
+.header-le {
+  margin-top:18px;
+}
+
+.header-le li sup{
+  color: red;
+}
+.header-le ul {
+  margin-top: 10px;
+}
+
+.header-ri li {
+  list-style-type: inline;
+  display: inline;
+  color: white;
+  padding: 10px;
+  float: right;
+  font-size: 15px;
+}
+.header-ri ul {
+  margin-top: 10px;
+}
+
+.header-ri li sup {
+  color: red;
+}
+
+/* .main-pics{
+  margin-top: 30px;
+} */
+.pic1 img {
+  width: 100%;
+  border: black;
+  border-top-left-radius: 15px;
+}
+.image1 {
+  width:100%;
+    background-color: black;
+  border-top-left-radius: 5px;
+  border-top-right-radius: 5px;
+  border-bottom-left-radius: 5px;
+  border-bottom-right-radius: 5px;
+  
+}
+.name h6 {
+font-size: 18px;
+}
+.name p{
+  font-size: 15px;
+}
+.image1 i {
+    margin-left: 5px;
+    color: red;
+}
+.image1 span{
+    color: white;
+
+}
+.image2 {
+    width:100%;
+    background-color: black;
+  border-top-left-radius: 5px;
+  border-top-right-radius: 5px;
+  border-bottom-left-radius: 5px;
+  border-bottom-right-radius: 5px;
+}
+.image2 i {
+    margin-left: 5px;
+    color: red;
+}
+.image2 span{
+    color: white;
+
+}
+
+
+
+.pic2 img {
+  width: 100%;
+  border: black;
+  border-radius: 5px 5px;
+}
+
+.pic3 img {
+  width: 100%;
+  border: black;
+  border-radius: 5px 5px;
+}
+
+.pic4 img {
+  width: 100%;
+  border: black;
+  border-radius: 5px 5px;
+}
+
+.pic5 img {
+  width: 100%;
+  border: black;
+  border-radius: 5px 5px;
+}
+
+.pic6 img {
+  width: 100%;
+  border: black;
+  border-radius: 5px 5px;
+}
+
+.pic7 img {
+  width: 100%;
+  border: black;
+  border-radius: 5px 5px;
+}
+
+.slide img {
+  margin-top: 100px;
+  margin-bottom: 100px;
+  width: 100%;
+}
+
+.unimg{
+  
+  margin-bottom: 100px;
+}
+
+
+.trend { background-color:white;
+       text-align: justify; 
+       padding-top: 13px ;
+       padding-left: 15px;
+       border-radius: 4px;
+       margin-top: 15px;
+       padding-bottom: 4px;
+       
+}
+.trend h4 { color:rgb(248, 68, 100);}
+.trend p{ font-size: 15px;}
+.footer{
+    text-align: center;
+    background-color: #333338;
+    margin-bottom: 50px;
+    width: 100%;
+    padding-bottom: 50px;
+    padding-top: 50px;
+}
+.footer ul li:hover{color: white; 
+
+}
+
+.footer ul li{
+    display: inline;
+    list-style-type: none;
+    padding: 15px;
+  border-radius: 5px ;
+font-size: 30px;
+  
+    
+}
+
+
+.contact {
+  background-color: #313035;
+  padding: 30px 0px 30px 0px;
+  margin-top: 40px;
+}
+.contact h5 {
+font-size: 15px;
+color: white;
+}
+
+.contact  {
+  font-size: 15px;
+  color: white;
+  }
+  
+  .icon {
+    background-color: #404043;
+    
+
+  }
+
+  .premier{background-color: #2B3148;
+  margin-bottom: 50px;}
+  .play-icon {
+    font-size: 70px;
+    color: red;
+    
+  }
+  .play-content { float: left;
+  margin-left: -20px;}
+  .play-content h1{ color:white;
+    margin-top: 25px;
+ }
+ .play-content p{
+   color:white;
+   font-size: 15px;
+   
+
+ }
+ .rupay {
+  margin-top: 25px;}
+ .rupay h2{  color:white;
+  margin-top: 18px;
+  float: right;
+}
+.rupay img{
+  height: 50px;
+  float: left;
+  
+}
+.en-movies { margin-top: 50px;}
+.releses-movies { padding-bottom: 50px;}
+.movie-text h1 { color:white;}
+.movie-text p{ color:white; font-size: 20px;}
+.movie1 img{
+  width: 100%;
+  border: black;
+  border-radius: 5px 5px;
+}
+.movie-title h2 { color:white;}
+.movie-title p { color:white; font-size: 1.5rem;}
+  .ticket p:hover{color: white;}
+  .ticket p{text-align: center;
+  font-size: 15px;
+color:rgba(228, 218, 218, 0.349);}
+
+
+  .ticket{text-align: center; }
+.last-content{
+    text-align: center;
+}
+
+.uimg  img{
+  width: 100%;
+  border-radius: 5px;
+}
+
+
+
+.carousel-inner > .item > img,
+.carousel-inner > .item > a > img {
+    width: 100%;
+    margin: auto;
+}
+
+
+
+
+.book1 img { 
+  width: 100%;
+  border: black;
+  border-radius: 5px 5px;
+ height: 400px;
+
+
+}
+
+
+.book1 {
+  width:70%;
+  background-color: black;
+border-top-left-radius: 5px;
+border-top-right-radius: 5px;
+border-bottom-left-radius: 5px;
+border-bottom-right-radius: 5px;
+margin-left: 50px;
+margin-top: 50px;
+
+
+}
+.book1 i {
+  margin-left: 5px;
+  color: red;
+}
+.book1 span{
+  color: white;
+
+}
+
+
+
+.bookn h6 {
+  margin-top: 150px;
+  font-size: 20px;
+  color: rgba(166, 255, 0, 0.884);
+  text-align: center;
+  text-transform: uppercase;
+  }
+  .bookn p{
+    font-size: 18px;
+    color: rgba(0, 195, 255, 0.664);
+    text-align: center;
+  }
+
+  .about-movie {
+    margin-top: 50px;
+  }
+  
+  .about-movie  p {  font-size: 1.5rem;}
+
+
+div.elem-group {
+  margin: 20px 0;
+}
+
+div.elem-group.inlined {
+  width: 49%;
+  display: inline-block;
+ 
+  margin-left: 1%;
+}
+
+label {
+  display: block;
+  font-family: 'Nanum Gothic';
+  padding-bottom: 10px;
+  font-size: 1.25em;
+}
+
+input, select, textarea {
+  border-radius: 2px;
+  border: 2px solid #777;
+  box-sizing: border-box;
+  font-size: 1.25em;
+  font-family: 'Nanum Gothic';
+  width: 100%;
+  padding: 10px;
+}
+
+div.elem-group.inlined input {
+  width: 95%;
+  display: inline-block;
+}
+
+textarea {
+  height: 250px;
+}
+
+hr {
+  border: 1px dotted #ccc;
+}
+
+button {
+  height: 50px;
+  background: orange;
+  border: none;
+  color: white;
+  font-size: 1.25em;
+  font-family: 'Nanum Gothic';
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+button:hover {
+  border: 2px solid black;
+}
+
+
+
+
+
+
+
+
+.card {
+  font-family: sans-serif;
+  width: 300px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 3em;
+  margin-bottom:3em;
+  border-radius: 10px;
+  background-color: #ffff;
+  padding: 1.8rem;
+  box-shadow: 2px 5px 20px rgba(0, 0, 0, 0.1);
+}
+
+.title {
+  text-align: center;
+  font-weight: bold;
+  margin: 0;
+}
+.subtitle {
+  text-align: center;
+  font-weight: bold;
+}
+.btn-text {
+  margin: 0;
+}
+
+.social-login {
+  display: flex;
+  justify-content: center;
+  gap: 5px;
+}
+
+.google-btn {
+  background: #fff;
+  border: solid 2px rgb(245 239 239);
+  border-radius: 8px;
+  font-weight: bold;
+  display: flex;
+  padding: 10px 10px;
+  flex: auto;
+  align-items: center;
+  gap: 5px;
+  justify-content: center;
+}
+.fb-btn {
+  background: #fff;
+  border: solid 2px rgb(69, 69, 185);
+  border-radius: 8px;
+  padding: 10px;
+  display: flex;
+  align-items: center;
+}
+
+.or {
+  text-align: center;
+  font-weight: bold;
+  border-bottom: 2px solid rgb(245 239 239);
+  line-height: 0.1em;
+  margin: 25px 0;
+}
+.or span {
+  background: #fff;
+  padding: 0 10px;
+}
+
+.email-login {
+  display: flex;
+  flex-direction: column;
+}
+.email-login label {
+  color: rgb(170 166 166);
+}
+
+
+input[type="text"],
+input[type="password"] {
+  padding: 15px 20px;
+  margin-top: 8px;
+  margin-bottom: 15px;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  box-sizing: border-box;
+}
+
+.cta-btn {
+  background-color: rgb(69, 69, 185);
+  color: white;
+  padding: 18px 20px;
+  margin-top: 10px;
+  margin-bottom: 20px;
+  width: 100%;
+  border-radius: 10px;
+  border: none;
+}
+
+.forget-pass {
+  text-align: center;
+  display: block;
+}
+
+
+
+/* payment */
+
+.center-illustration{ margin-top: 30%;
+;}
+
+.payment-card  h1 { 
+  color: rgba(0, 255, 106, 0.774);
+  
+  text-shadow: 2px 2px 2px #aaa;
+  text-transform: uppercase;
+text-align: center;
+margin-top: 50px;}
+.button {
+	width: 200px;
+	height: 30px;
+	text-transform: uppercase;
+	font-weight: 700;
+	font-size: 16px;
+	font-family: "Roboto", sans-serif;
+	letter-spacing: 0.05em;
+	color: #f7f7f7;
+	background-color: #4f7cac;
+	border: none;
+	border-radius: 5px;
+	cursor: pointer;
+	transition: all 0.2s ease;
+}
+
+button:hover {
+	background-color: #2a94f4;
+}
+
+
+
+
