@@ -64,7 +64,8 @@ const Bachelor = ( ) => {
                 <h2>About the movie</h2>
                   <p>Most Eligible Bachelor is a romantic dramedy directed 
                       by Bommarillu Baskar starring Akhil Akkineni as an NRI and Pooja 
-                      Hegde as a standup comic. This wholesome entertainer is produced by Vasu Varma and Bunny Vas.</p>
+                      Hegde as a standup comic. This wholesome entertainer is produced by Vasu Varma and Bunny Vas. </p>
+                      <p>this movie was very interstiong and fun and romantic</p>
                </div>
            
            </div>
