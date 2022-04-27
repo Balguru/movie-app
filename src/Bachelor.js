@@ -50,7 +50,7 @@ const Bachelor = ( ) => {
 
                    <div class="bookn">
                       <h6>Most Eligible Bachelor</h6>
-                      <p>Comedy/Romantic</p>
+                      <p>Comedy/Romantic/fun</p>
                     </div>
             </div>
             </div>
